@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2020-08-14 21:16:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2019-07-22 22:18:32 +0300"
@@ -236,6 +242,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2019-07-22 22:32:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2020-08-14 22:34:13 +0300"
     },
     "done": true
   },
@@ -395,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-08-14 20:28:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-07-26 20:11:19 +0300"
@@ -446,6 +464,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2019-10-27 19:24:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2020-08-14 22:33:26 +0300"
     },
     "done": true
   },
@@ -558,6 +582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2020-08-14 22:22:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2019-10-27 19:24:16 +0200"
@@ -567,6 +597,18 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-10-27 19:22:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2020-08-14 22:33:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2020-08-14 22:33:27 +0300"
     },
     "done": true
   },
@@ -744,9 +786,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2020-08-13 20:02:18 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2020-03-23 21:33:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2020-08-14 20:28:10 +0300"
     },
     "done": true
   },
@@ -789,6 +843,12 @@
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-11-08 19:32:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-08-14 22:33:26 +0300"
     },
     "done": true
   },
@@ -869,14 +929,17 @@
       "minecraft:pillager": "2019-08-10 19:00:49 +0300",
       "minecraft:blaze": "2019-11-02 21:51:52 +0200",
       "minecraft:skeleton": "2019-07-22 21:19:00 +0300",
+      "minecraft:elder_guardian": "2020-08-14 22:22:16 +0300",
       "minecraft:ravager": "2020-04-13 17:02:42 +0300",
       "minecraft:ghast": "2019-11-02 22:26:20 +0200",
       "minecraft:hoglin": "2020-07-22 20:15:33 +0300",
+      "minecraft:guardian": "2020-08-14 22:12:29 +0300",
       "minecraft:vindicator": "2020-04-13 17:00:43 +0300",
       "minecraft:magma_cube": "2020-03-25 21:24:19 +0200",
       "minecraft:spider": "2019-07-22 21:17:08 +0300",
       "minecraft:creeper": "2019-07-22 21:32:28 +0300",
       "minecraft:slime": "2019-07-23 14:47:01 +0300",
+      "minecraft:evoker": "2020-08-14 21:46:45 +0300",
       "minecraft:phantom": "2020-03-24 21:56:41 +0200",
       "minecraft:zombified_piglin": "2020-03-20 15:19:56 +0200",
       "minecraft:witch": "2020-04-14 21:33:35 +0300",
@@ -887,6 +950,7 @@
       "minecraft:piglin": "2020-07-22 20:23:29 +0300",
       "minecraft:enderman": "2019-11-11 20:45:09 +0200",
       "minecraft:silverfish": "2020-03-25 22:13:11 +0200",
+      "minecraft:vex": "2020-08-14 21:43:27 +0300",
       "minecraft:zombie": "2019-07-22 21:35:00 +0300",
       "minecraft:drowned": "2019-07-22 22:28:29 +0300",
       "minecraft:zombie_villager": "2020-04-14 21:33:16 +0300"
@@ -896,6 +960,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2020-03-25 21:48:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-08-11 20:25:23 +0300"
     },
     "done": true
   },
@@ -1013,6 +1083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-08-14 22:33:26 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2019-08-10 19:00:49 +0300"
@@ -1022,6 +1098,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2019-08-10 18:40:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-08-11 20:25:23 +0300"
     },
     "done": true
   },
@@ -1049,6 +1131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2020-08-11 20:25:23 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2019-08-10 18:40:30 +0300"
@@ -1071,6 +1159,12 @@
     "criteria": {
       "has_white_dye": "2020-03-23 21:51:47 +0200",
       "has_blue_dye": "2020-03-23 21:51:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-08-14 20:28:10 +0300"
     },
     "done": true
   },
@@ -1243,6 +1337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-08-14 20:28:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2019-07-24 18:44:21 +0300"
@@ -1303,6 +1403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-08-14 23:07:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_pillar": "2020-07-21 19:23:04 +0300"
@@ -1348,6 +1454,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2019-07-22 22:35:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-08-14 20:28:10 +0300"
     },
     "done": true
   },
@@ -1429,6 +1541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-08-14 23:07:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2019-10-27 19:22:34 +0200"
@@ -1456,6 +1574,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2019-07-23 15:50:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-08-11 20:25:23 +0300"
     },
     "done": true
   },
@@ -1507,6 +1631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2020-08-14 22:33:27 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-10-27 19:24:16 +0200"
@@ -1546,6 +1676,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2019-07-22 21:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-08-14 22:20:38 +0300"
     },
     "done": true
   },
@@ -1600,6 +1736,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-07-23 13:20:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-08-14 22:12:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2020-08-14 22:33:27 +0300"
     },
     "done": true
   },
@@ -1695,6 +1843,7 @@
       "minecraft:snowy_mountains": "2020-03-19 13:15:46 +0200",
       "minecraft:mountains": "2019-07-23 15:38:34 +0300",
       "minecraft:forest": "2019-07-22 21:04:03 +0300",
+      "minecraft:mushroom_fields": "2020-08-14 22:47:56 +0300",
       "minecraft:taiga": "2019-11-11 22:19:37 +0200",
       "minecraft:desert_hills": "2019-07-22 22:18:55 +0300",
       "minecraft:giant_tree_taiga": "2020-04-17 23:17:07 +0300",
@@ -1710,6 +1859,7 @@
       "minecraft:snowy_beach": "2020-03-19 13:14:51 +0200",
       "minecraft:warm_ocean": "2019-07-22 22:26:05 +0300",
       "minecraft:deep_lukewarm_ocean": "2019-07-22 22:26:03 +0300",
+      "minecraft:badlands": "2020-08-14 23:04:35 +0300",
       "minecraft:savanna_plateau": "2020-04-17 23:26:55 +0300",
       "minecraft:beach": "2019-07-22 22:19:40 +0300",
       "minecraft:dark_forest": "2019-07-23 14:44:52 +0300",
@@ -1721,6 +1871,8 @@
       "minecraft:wooded_hills": "2019-07-23 14:35:17 +0300",
       "minecraft:stone_shore": "2019-10-27 19:32:09 +0200",
       "minecraft:giant_tree_taiga_hills": "2020-04-17 23:18:54 +0300",
+      "minecraft:wooded_badlands_plateau": "2020-08-14 23:04:37 +0300",
+      "minecraft:mushroom_field_shore": "2020-08-14 22:47:55 +0300",
       "minecraft:swamp": "2019-07-23 14:45:25 +0300",
       "minecraft:snowy_taiga_hills": "2020-03-19 20:28:43 +0200",
       "minecraft:savanna": "2019-10-27 20:45:07 +0200",
@@ -1764,6 +1916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-08-14 23:07:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2019-07-22 21:04:22 +0300"
@@ -1803,6 +1961,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_redstone_ore": "2020-07-31 23:42:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-08-11 20:25:23 +0300"
     },
     "done": true
   },
@@ -1851,6 +2015,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-07-22 21:20:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-08-14 22:50:23 +0300"
     },
     "done": true
   },
@@ -1926,9 +2096,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-08-11 20:25:23 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-07-21 20:23:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-08-14 20:28:10 +0300"
     },
     "done": true
   },
@@ -1987,6 +2169,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2020-03-19 20:57:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-08-14 22:12:30 +0300"
     },
     "done": true
   },
@@ -2135,9 +2323,21 @@
     },
     "done": true
   },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2020-08-14 21:18:04 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2019-10-27 19:22:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2020-08-14 22:34:13 +0300"
     },
     "done": true
   },
@@ -2192,6 +2392,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-07-22 21:04:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-08-14 22:12:30 +0300"
     },
     "done": true
   },
@@ -2399,6 +2605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-08-11 20:25:23 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2019-07-23 14:53:12 +0300"
@@ -2443,11 +2655,13 @@
       "cooked_beef": "2019-07-23 13:58:18 +0300",
       "chorus_fruit": "2020-07-26 19:56:51 +0300",
       "baked_potato": "2020-03-19 20:24:32 +0200",
+      "porkchop": "2020-08-14 21:13:55 +0300",
       "beetroot_soup": "2020-03-19 20:11:18 +0200",
       "apple": "2019-07-22 22:35:08 +0300",
       "potato": "2020-03-19 21:24:43 +0200",
       "cooked_cod": "2019-10-27 20:39:23 +0200",
       "pumpkin_pie": "2020-04-14 23:36:06 +0300",
+      "pufferfish": "2020-08-13 20:19:37 +0300",
       "bread": "2019-07-23 13:43:45 +0300",
       "suspicious_stew": "2019-10-27 20:11:55 +0200",
       "cookie": "2020-03-25 21:30:25 +0200",
@@ -2478,6 +2692,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2020-03-24 20:21:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-08-14 20:28:10 +0300"
     },
     "done": true
   },
@@ -2586,6 +2806,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2019-10-27 20:46:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2020-08-14 22:33:27 +0300"
     },
     "done": true
   },
@@ -2699,6 +2925,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2020-08-11 22:34:22 +0300",
       "minecraft:sheep": "2019-11-02 21:23:45 +0200",
       "minecraft:cow": "2019-11-02 21:23:32 +0200",
       "minecraft:chicken": "2020-08-06 19:04:06 +0300"
@@ -2720,6 +2947,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-07-23 15:11:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2020-08-14 22:33:26 +0300"
     },
     "done": true
   },
@@ -3095,6 +3328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2020-08-14 22:34:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2019-11-08 19:30:20 +0200"
@@ -3371,6 +3610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-08-14 20:28:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-10-27 20:00:47 +0200"
@@ -3497,6 +3742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-08-14 20:28:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-07-22 21:20:25 +0300"
@@ -3509,6 +3760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-08-14 22:33:26 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-07-23 13:20:02 +0300"
@@ -3518,6 +3775,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2020-03-23 21:30:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2020-08-14 21:16:06 +0300"
     },
     "done": true
   },
@@ -3638,6 +3901,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-10-27 19:24:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2020-08-14 20:28:10 +0300"
     },
     "done": true
   },
@@ -3857,6 +4126,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2020-08-14 22:36:00 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2019-07-22 21:04:22 +0300"
@@ -3920,6 +4195,18 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2020-04-18 23:40:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2020-08-14 22:34:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2020-08-14 23:36:21 +0300"
     },
     "done": true
   },
@@ -3998,6 +4285,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-07-23 13:43:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2020-08-14 20:28:10 +0300"
     },
     "done": true
   },
